@@ -1,4 +1,4 @@
 SCALE InstallFest
 -----------------
 
-Ansible Tooling for the SCaLE Installfest setup
+Tooling and Documentation for the SCaLE Installfest setup
