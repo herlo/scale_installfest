@@ -3,49 +3,38 @@ Booting into Fedora
 
 After rebooting, the VM should come up and boot directly into Fedora.
 
-.. image:: 30-vmware-booting-f29.png
-   :scale: 85 %
+.. image:: bootfedora/30-booting-f29.png
 
-.. image:: 31-vmware-f29-logo.png
-   :scale: 85 %
+.. image:: bootfedora/31-f29-logo.png
 
 The user created during installation should appear on the login screen. 
 
-.. image:: 32-vmware-f29-login.png
-   :scale: 85 %
+.. image:: bootfedora/32-f29-login.png
 
 Select the user and enter the password you recorded above.
 
-.. image:: 33-vmware-f29-password.png
-   :scale: 85 %
+.. image:: bootfedora/33-f29-password.png
 
 Upon successful login, a welcome screen appears.
 
-.. image:: 34-vmware-f29-bienvenue.png
-   :scale: 85 %
+.. image:: bootfedora/34-f29-bienvenue.png
 
 There are a few setup pages.
 
-.. image:: 35-vmware-f29-input.png
-   :scale: 85 %
+.. image:: bootfedora/35-f29-input.png
 
-.. image:: 36-vmware-f29-privacy.png
-   :scale: 85 %
+.. image:: bootfedora/36-f29-privacy.png
 
-.. image:: 37-vmware-f29-accounts.png
-   :scale: 85 %
+.. image:: bootfedora/37-f29-accounts.png
 
-.. image:: 38-vmware-f29-r2g.png
-   :scale: 85 %
+.. image:: bootfedora/38-f29-r2g.png
 
 There are a series of helpful starting pages. Review them at your leisure.
 
-.. image:: 39-vmware-f29-help.png
-   :scale: 85 %
+.. image:: bootfedora/39-f29-help.png
 
 Welcome to Fedora, click 'Activities' in the top right corner to get started.
 
-.. image:: 40-vmware-f29-desktop.png
-   :scale: 85 %
+.. image:: bootfedora/40-f29-desktop.png
 
 
