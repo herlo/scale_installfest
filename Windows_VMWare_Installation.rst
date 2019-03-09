@@ -12,12 +12,16 @@ This document covers how to install VMWare Player on Windows 10. Which in turn, 
 Obtaining VMWare Workstation Player
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Obtain a USB from a proctor labeled DOCS or NTFS ISOS, and copy everything to your computer.
+Obtain a USB from a proctor labeled ISOS (or NTFS ISOS), and copy everything to your computer.
 
 The VMware-player-15.0.2-10952284.exe should specifically be copied, along with any ISOs.
 
-Alternative Download
---------------------
+Alternative Downloads
+---------------------
+
+Download VMware-player-15.0.2-10952284.exe at
+
+http://192.168.0.254/cblr/ISOs/VMware-player-15.0.2-10952284.exe
 
 Download the VMWare Workstation Player at
 

@@ -13,14 +13,18 @@ This document covers how to install VirtualBox on Mac OSX. Which in turn, is use
 Obtaining VirtualBox Player
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Obtain a USB from a proctor labeled DOCS or NTFS ISOS, and copy everything to your computer.
+Obtain a USB from a proctor labeled ISOS, and copy everything to your computer.
 
 The VirtualBox-6.0.4-128413-OSX.dmg should specifically be copied, along with any ISOs.
 
-Alternative Download
---------------------
+Alternative Downloads
+---------------------
 
-Download the VirtualBox Player at
+Download VirtualBox-6.0.4-128413-OSX.dmg at
+
+http://192.168.0.254/cblr/ISOs/VirtualBox-6.0.4-128413-OSX.dmg
+
+If all else fails, download the VirtualBox Player at
 
 https://download.virtualbox.org/virtualbox/6.0.4/VirtualBox-6.0.4-128413-OSX.dmg
 
