@@ -10,8 +10,15 @@ Mac OSX
 
 This document covers how to install VirtualBox on Mac OSX. Which in turn, is used to install Fedora as a virtual machine.
 
-Downloading VirtualBox
-~~~~~~~~~~~~~~~~~~~~~~
+Obtaining VirtualBox Player
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Obtain a USB from a proctor labeled DOCS or NTFS ISOS, and copy everything to your computer.
+
+The VirtualBox-6.0.4-128413-OSX.dmg should specifically be copied, along with any ISOs.
+
+Alternative Download
+--------------------
 
 Download the VirtualBox Player at
 
